@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻I'm software engineer jr at Banco <br><br>🎓 I am a software engieneering student at FIAP</p>
+<p align="left">💻 I'm software engineer jr at Banco <br><br>🎓 I am a software engieneering student at FIAP</p>
 
 ###
 
